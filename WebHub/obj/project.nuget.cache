@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "hxuzhuT8VeMDvNBUTDc9UI9SPUgyS0MkVPcpA7qErGkr9qbqtyLYLPv02tSrNbUOchzAkes4UmqDw0wKDvNDfA==",
+  "success": true,
+  "projectFilePath": "/home/mari/RiderProjects/WebHub/WebHub/WebHub.csproj",
+  "expectedPackageFiles": [
+    "/home/mari/.nuget/packages/htmlagilitypack/1.11.60/htmlagilitypack.1.11.60.nupkg.sha512",
+    "/home/mari/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/home/mari/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/mari/.nuget/packages/oracle.manageddataaccess.core/3.21.130/oracle.manageddataaccess.core.3.21.130.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.diagnostics.performancecounter/6.0.1/system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.directoryservices/6.0.1/system.directoryservices.6.0.1.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.directoryservices.protocols/6.0.2/system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/home/mari/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
