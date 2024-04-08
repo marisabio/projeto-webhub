@@ -15,7 +15,7 @@ https://github.com/marisabio/projeto-buyhub
 
 O objetivo do projeto será desenvolver uma plataforma digital de procurement, nomeada de BuyHub, que busque atender pequenas empresas, com opções de personalização para atender as suas diferentes necessidades e regras de negócio. Assim, reduzindo a papelada e agilizando negociações.  
 
-Este é o repositório secundário do projeto, destinado a ferramenta de Webscrapping em C# criada para a plataforma.
+Este é o repositório secundário do projeto, destinado a ferramenta de webscrapping em C# criada para a plataforma.
 
 ## Instruções
 
